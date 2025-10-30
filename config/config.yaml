@@ -113,6 +113,14 @@ platforms:
     name: "金十数据"
   - id: "fastbull"
     name: "快讯通"
+   - id: "gelonghui"
+    name: "彭博社"
+  - id: "bloomberg"
+    name: "路透社"
+  - id: "reuters"
+    name: "金融时报"
+
+
 
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
